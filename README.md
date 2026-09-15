@@ -148,22 +148,13 @@ padding:120px 10%;
 
 
 .left{
-
-
-width:50%;
-
-
+width:60%;
 }
 
 
 .left h1{
-
-
-font-size:64px;
-line-height:72px;
-margin-bottom:25px;
-
-
+    font-size:72px;
+    line-height:82px;
 }
 
 
