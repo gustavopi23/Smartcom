@@ -546,7 +546,7 @@ com organização, transparência e tecnologia.
 <div class="buttons">
 
 
-<a href="https://wa.me/5511913313991?text=Olá,%20gostaria%20de%20uma%20proposta." class="btn primary" target="_blank">
+<a href="#" class="btn primary">
 
 
 Solicitar Proposta
@@ -555,7 +555,7 @@ Solicitar Proposta
 </a>
 
 
-<a href="https://wa.me/5511913313991?text=Olá,%20gostaria%20de%20mais%20informações." class="btn secondary" target="_blank">
+<a href="#" class="btn secondary">
 
 
 WhatsApp
